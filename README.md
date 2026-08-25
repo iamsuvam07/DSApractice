@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/iamsuvam07/DSApractice/tree/master/0009-palindrome-number) |
 | [1872-stone-game-viii](https://github.com/iamsuvam07/DSApractice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/iamsuvam07/DSApractice/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/iamsuvam07/DSApractice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
