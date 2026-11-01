@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/iamsuvam07/DSApractice/tree/master/0009-palindrome-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iamsuvam07/DSApractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/iamsuvam07/DSApractice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/iamsuvam07/DSApractice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/iamsuvam07/DSApractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/iamsuvam07/DSApractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/iamsuvam07/DSApractice/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/iamsuvam07/DSApractice/tree/master/1254-number-of-closed-islands) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/iamsuvam07/DSApractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
